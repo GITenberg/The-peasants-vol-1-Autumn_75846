@@ -1,0 +1,43 @@
+_repo: The-peasants-vol-1-Autumn_75846
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dziewicki, Michael Henry
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '58181'
+    url: http://www.gutenberg.org/2009/agents/58181
+creator:
+  author:
+    agent_name: Reymont, Władysław Stanisław
+    aliases:
+    - Reymont, Wladyslaw Stanislaw
+    - Reymont, Ladislas
+    birthdate: 1867
+    deathdate: 1925
+    gutenberg_agent_id: '31559'
+    url: http://www.gutenberg.org/2009/agents/31559
+    wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont
+description: 'Translation of part 1 of: Chłopi.'
+gutenberg_issued: '2025-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75846'
+language: en
+pgterms:marc904: https://archive.org/details/thepeasants-autumn/
+pgterms:marc905: 20230929044837reymont
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bAlfred A Knopf, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Polish fiction -- Translations into English'
+- !lcsh 'Peasants -- Poland -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: The peasants, [vol. 1] Autumn
+url: http://www.gutenberg.org/ebooks/75846
