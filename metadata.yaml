@@ -7,6 +7,9 @@ contributor:
     deathdate: 1928
     gutenberg_agent_id: '58181'
     url: http://www.gutenberg.org/2009/agents/58181
+covers:
+- cover_type: archival
+  image_path: 75846-h/images/cover.jpg
 creator:
   author:
     agent_name: Reymont, Władysław Stanisław
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31559
     wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont
 description: 'Translation of part 1 of: Chłopi.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75846#The-peasants-vol-1-Autumn
 gutenberg_issued: '2025-04-12'
 gutenberg_type: Text
 identifiers:
